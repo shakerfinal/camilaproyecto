@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/camilaproyecto/static/css/main.7dc85121.chunk.css",
+    "main.js": "/camilaproyecto/static/js/main.df5a9445.chunk.js",
+    "main.js.map": "/camilaproyecto/static/js/main.df5a9445.chunk.js.map",
+    "runtime-main.js": "/camilaproyecto/static/js/runtime-main.845b9545.js",
+    "runtime-main.js.map": "/camilaproyecto/static/js/runtime-main.845b9545.js.map",
+    "static/js/2.dacd06c0.chunk.js": "/camilaproyecto/static/js/2.dacd06c0.chunk.js",
+    "static/js/2.dacd06c0.chunk.js.map": "/camilaproyecto/static/js/2.dacd06c0.chunk.js.map",
+    "index.html": "/camilaproyecto/index.html",
+    "precache-manifest.f580cff713344fcff9f961217ca5806f.js": "/camilaproyecto/precache-manifest.f580cff713344fcff9f961217ca5806f.js",
+    "service-worker.js": "/camilaproyecto/service-worker.js",
+    "static/css/main.7dc85121.chunk.css.map": "/camilaproyecto/static/css/main.7dc85121.chunk.css.map",
+    "static/js/2.dacd06c0.chunk.js.LICENSE.txt": "/camilaproyecto/static/js/2.dacd06c0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/camilaproyecto/static/media/micheile-henderson-_HIlJ_popSQ-unsplash.917c560c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845b9545.js",
+    "static/js/2.dacd06c0.chunk.js",
+    "static/css/main.7dc85121.chunk.css",
+    "static/js/main.df5a9445.chunk.js"
+  ]
+}
